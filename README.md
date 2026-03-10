@@ -1,5 +1,7 @@
 # challenge3_telecomX_parte2
 
+![832d01c5-aa1f-4a72-894b-9bb18b8d2a00](https://github.com/user-attachments/assets/5d859c48-e0f4-48ac-ae90-ccde58ca68b8)
+
 # 📊 Predicción de Cancelación de Clientes – Telecom X
 
 ## 📌 Descripción del Proyecto
